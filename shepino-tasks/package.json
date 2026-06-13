@@ -1,0 +1,28 @@
+{
+  "name": "shepino-tasks",
+  "version": "3.0.0",
+  "description": "Premium Task Manager, Second Brain & Event Calendar — zero dependency single-file app",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve . -l 3000",
+    "dev": "npx serve . -l 3000 --cors"
+  },
+  "keywords": [
+    "task-manager",
+    "second-brain",
+    "calendar",
+    "event-manager",
+    "productivity",
+    "notes",
+    "reminders",
+    "glassmorphism",
+    "pwa",
+    "single-file"
+  ],
+  "author": "Shepino",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
